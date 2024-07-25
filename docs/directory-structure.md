@@ -1,4 +1,5 @@
-#Directory Structure 
+# Directory Structure 
+```
 electron-react-app-structure
 ├── src
 │   ├── main
@@ -47,7 +48,7 @@ electron-react-app-structure
 └── docs
     ├── README.md              # Project overview and instructions
     └── architecture.md        # Detailed architectural overview and
-
+```
 
 
 # Shell

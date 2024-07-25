@@ -12,7 +12,7 @@ The `Electron-React-Bootstrap-Structure` project is built using Node.js v22.5.1 
 ## Directory Structure
 
 The project directory is organized as follows:
-
+```
 electron-react-app-structure
 ├── src
 │ ├── main
@@ -61,7 +61,7 @@ electron-react-app-structure
 └── docs
 ├── README.md # Project overview and instructions
 └── architecture.md # Detailed architectural overview and benefits of the directory structure
-
+```
 
 ## Benefits of This Directory Structure
 
